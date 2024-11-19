@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👨‍🎓
 
-<!--
-**Dillax/Dillax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nomer é Robert Simão
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](www.alura.com.br) e [Escola da Nuvem](https://escoladanuvem.org/) Re/Star AWS
+- Estou desenvolnvendo em linguagem JavaSecript, Cloud AWS, Data-Science e Machine-Learning com Python
+- Utilizo esse espaço para organização e compartilhamento dos meus prijetos desenvolvindos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Contato 📧
+
+- robertdilla@gmail.com
+
+- www.linkedin.com/in/santossimaorobert
+
+- ![](https://media1.tenor.com/m/DDPfsplKF5EAAAAd/yes-yas.gif)
+
+
