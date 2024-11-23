@@ -8,9 +8,15 @@ Meu nomer é Robert Simão
 
 - ## Contato 📧
 
+- www.linkedin.com/in/santossimaorobert
+
 - robertdilla@gmail.com
 
-- www.linkedin.com/in/santossimaorobert
+- robert.simao.santos@uel.br
+
+- robertsantos@alunos.utfpr.edu.br
+  
+  
 
 - ![](https://media1.tenor.com/m/DDPfsplKF5EAAAAd/yes-yas.gif)
 
