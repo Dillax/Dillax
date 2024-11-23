@@ -2,7 +2,7 @@
 
 Meu nomer é Robert Simão
 
-- Estou estudando na [Alura](www.alura.com.br) e [Escola da Nuvem](https://escoladanuvem.org/) Re/Star AWS
+- Estou estudando no [Formadores em Ação](https://professor.escoladigital.pr.gov.br/formadores_acao) [Alura](www.alura.com.br) e [Escola da Nuvem](https://escoladanuvem.org/) Re/Star AWS
 - Estou desenvolnvendo em linguagem JavaSecript, Cloud AWS, Data-Science e Machine-Learning com Python
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvindos
 
