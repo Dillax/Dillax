@@ -17,8 +17,11 @@ Meu nomer é Robert Simão
 - robertsantos@alunos.utfpr.edu.br
 
 - ## Currículo 📝
+  
 
 -  ![](www.linkedin.com/in/santossimaorobert)
+
+  
 
 - ![](http://lattes.cnpq.br/6334683551516624)
   
