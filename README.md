@@ -19,11 +19,11 @@ Meu nomer é Robert Simão
 - ## Currículo 📝
   
 
--  ![](www.linkedin.com/in/santossimaorobert)
+-  [Linkedin](www.linkedin.com/in/santossimaorobert)
 
   
 
-- ![](http://lattes.cnpq.br/6334683551516624)
+-  [Lattes](http://lattes.cnpq.br/6334683551516624)
   
   
 
