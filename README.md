@@ -19,7 +19,7 @@ Meu nomer é Robert Simão
 - ## Currículo 📝
   
 
--  [Linkedin](www.linkedin.com/in/santossimaorobert) 
+-  [Linkedin](http://www.linkedin.com/in/santossimaorobert) 
 
   
 
