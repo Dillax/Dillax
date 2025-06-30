@@ -19,12 +19,13 @@ Meu nomer é Robert Simão
 - ## Currículo 📝
   
 
--  [Linkedin](www.linkedin.com/in/santossimaorobert)
+-  [Linkedin](www.linkedin.com/in/santossimaorobert) 
 
   
 
 -  [Lattes](http://lattes.cnpq.br/6334683551516624)
   
+
   
 
 - ![](https://media1.tenor.com/m/DDPfsplKF5EAAAAd/yes-yas.gif)
