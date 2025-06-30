@@ -1,7 +1,8 @@
 ## Boas vindas ao meu perfil 👨‍🎓
 
 Meu nomer é Robert Simão
-
+ 
+- Estudo Ciências de Dados e Iteligência Artificial (Bacharel) UNIFIL
 - Estou estudando no [Formadores em Ação](https://professor.escoladigital.pr.gov.br/formadores_acao) [Alura](www.alura.com.br) e [Escola da Nuvem](https://escoladanuvem.org/) Re/Star AWS
 - Estou desenvolnvendo em linguagem JavaSecript, Cloud AWS, Data-Science e Machine-Learning com Python
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvindos
@@ -12,7 +13,7 @@ Meu nomer é Robert Simão
 
 - robertdilla@gmail.com
 
-- robert.simao.santos@uel.br
+- trebor5055@edu.unifil.br
 
 - robertsantos@alunos.utfpr.edu.br
   
