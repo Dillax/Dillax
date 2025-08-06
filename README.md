@@ -8,7 +8,7 @@ Meu nomer é Robert Simão
 - Estou desenvolnvendo em linguagem JavaSecript, Cloud AWS, Data-Science e Machine-Learning com Python
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvindos
 
-- ## Contato 📧
+- ## Contato ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - robertdilla@gmail.com
 
